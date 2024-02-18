@@ -26,8 +26,8 @@ function fizzBuzz() {
     }
 }
 
-
 // End of your code
 
 // Do not modify code below this line
 // --------------------------------
+module.exports = { fizzBuzz };

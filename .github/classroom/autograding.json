@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Tests caesarCipher v2",
+      "setup": "npm install",
+      "run": "./tests.sh caesarCipher.js",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Tests chessboard v2",
+      "setup": "npm install",
+      "run": "./tests.sh chessboard.js",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Tests printTriangle v2",
+      "setup": "npm install",
+      "run": "./tests.sh printTriangle.js",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Tests fizzBuzz v2",
+      "setup": "npm install",
+      "run": "./tests.sh fizzBuzz.js",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
