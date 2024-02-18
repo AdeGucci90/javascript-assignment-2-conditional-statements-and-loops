@@ -33,6 +33,7 @@ function chessboard(m, n) {
     console.log(grid);
 }
 
+
 // End of your code
 
 // Do not modify code below this line
